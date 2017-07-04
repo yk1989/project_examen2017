@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+}
+.centro {
+	margin:0px auto;
+	display: block;
+}
+
+table {
+	text-align: center;
+	background-color: #f7f9f3;
+	width: 1050px;
+	border: 2px solid #cccccc;
+	font-family: 'Varela Round', sans-serif;
+}
+
